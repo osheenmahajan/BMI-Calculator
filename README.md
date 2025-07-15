@@ -1,1 +1,1 @@
-# BMI-Calculator
+I have developed a BMI (Body Mass Index) Calculator using HTML 🧱, CSS 🎨, and JavaScript ⚙️. This simple yet effective tool helps users calculate their BMI by entering their height 📏 and weight ⚖️. Based on the result, the calculator displays your BMI. This project showcases essential front-end development skills like responsive design 📱, and real-time input validation ✅. It’s a great utility for promoting health awareness and a valuable addition to my portfolio of interactive web tools 🌐💻.
